@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biostate" alt="biostate" /> </p>
 
-- 🔭 I’m currently working on [Aracın Bak](www.aracinabak.com)
+- 🔭 I’m currently working on [Aracına Bak](www.aracinabak.com)
 
 - 🌱 I’m currently learning **Laravel, Vue,Flutter, WebPack**
 
