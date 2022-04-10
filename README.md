@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Laravel, Vue, WebPack, AlphineJS**
 
 - 💬 Ask me about **Php, Laravel, Vue, Mysql**
-- 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biostate&layout=compact&hide=html" alt="biostate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biostate&show_icons=true" alt="biostate" /></p>
