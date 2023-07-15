@@ -8,7 +8,7 @@ An enthusiastic programmer and a learner
 
 * 🌍  I'm based in anywhere you can image
 * ✉️  You can contact me at [oozarpac@gmail.com](mailto:oozarpac@gmail.com)
-* 🚀  I'm currently working on [Coding Software](http://codin.software)
+* 🚀  I'm currently working on [Codin Software](http://codin.software)
 * 🧠  I'm learning Go and AlpineJS
 
 ### Skills
